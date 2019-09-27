@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==0.8.0
 astor==0.8.0
 attrs==19.1.0
@@ -73,3 +74,15 @@ webencodings==0.5.1
 Werkzeug==0.16.0
 widgetsnbextension==3.5.1
 wrapt==1.11.2
+=======
+jupyter
+matplotlib
+numpy
+pytz
+scikit-learn
+scipy
+pandas
+keras
+pillow
+feature
+>>>>>>> 0cbee9f1085170b0f81fae97f5862196f80da721
