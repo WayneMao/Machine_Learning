@@ -29,6 +29,8 @@ def exponential_moving_average(df, n):
     EMA = pd.Series(df['close'].ewm(span=n, min_periods=n).mean(), name='EMA_' + str(n))
     df = df.join(EMA)
     return df
+# Provide exponential weighted functions. 
+# 滑窗 加权平均
 
 
 def momentum(df, n):
