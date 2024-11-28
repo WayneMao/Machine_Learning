@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 absl-py==0.8.0
 astor==0.8.0
 attrs==19.1.0
@@ -85,4 +84,3 @@ pandas
 keras
 pillow
 feature
->>>>>>> 0cbee9f1085170b0f81fae97f5862196f80da721
